@@ -17,7 +17,7 @@ Accountable Calling will join existing Talking Parents features, including Secur
 Talking Parents is the only co-parenting service to offer Accountable Calling. Through their free website and paid mobile apps, Talking Parents improves accountability and communication between co-parents. Talking Parents helps co-parents avoid disputes and focus on the most important people in their lives—their children. Talking Parents has been mentioned in TechCrunch, Romper, Thrive Global, Fast Company, Fatherly, and Us Magazine Online.
 
 
-## Features With a variety of tools that make day-to-day co-parenting activities easier, parents can spend more time focusing on their children and less on being a co-parent.
+## Features 
 -Accountable CallingSM
 Make video or phone calls, complete with call recordings and transcripts, all without disclosing your phone number.
 -Accountable PaymentsSM
