@@ -18,7 +18,6 @@ Talking Parents is the only co-parenting service to offer Accountable Calling. T
 
 
 ## Features With a variety of tools that make day-to-day co-parenting activities easier, parents can spend more time focusing on their children and less on being a co-parent.
-
 -Accountable CallingSM
 Make video or phone calls, complete with call recordings and transcripts, all without disclosing your phone number.
 -Accountable PaymentsSM
