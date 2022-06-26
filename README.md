@@ -20,30 +20,39 @@ Talking Parents is the only co-parenting service to offer Accountable Calling. T
 ### Features with a variety of tools that make day to day co-oparenting activities easier, parents can spend more time focusing on their childeren and less on being a co-parent.
 
 -Accountable CallingSM
+
 Make video or phone calls, complete with call recordings and transcripts, all without disclosing your phone number.
 
 -Accountable PaymentsSM
+
 Keep track of all of your shared parenting expenses. You and your co-parent can make payment requests and securely send or receive money.
 
 -Secure Messaging
+
 Send messages that you and your co-parent cannot edit or delete.
 
 -Shared Calendar
+
 Manage custody schedules and coordinate appointments.
 
 -Info Library
+
 Create customizable cards with vital information like daycare phone numbers, allergy details, or emergency contacts.
 
 -Personal Journal
+
 Make notes and keep track of interactions without sharing it with your co-parent. Anything you want to stay private can be documented here.
 
 -Vault File Storage
+
 Store and organize images, videos, and any other files in your personal storage space.
 
 -Attachment Library
+
 Easily view and download all files shared in Messages between you and your co-parent.
 
 -Unalterable Records
+
 Used by court professionals and admissible in courtrooms across the country, every action taken within TalkingParents is in your Records. 
 
 ###  Functionalities-
